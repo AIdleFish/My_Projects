@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Restaurant_msys/Restaurant_msys.vcxproj" Id="21f14cde-de00-46c7-8a62-6a9caad63ef7" />
+</Solution>

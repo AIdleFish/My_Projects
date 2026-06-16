@@ -1,0 +1,18 @@
+自助餐管理系统
+Restaurant_msys/
+├── include/                 # 所有头文件
+│   ├── config.h             # 全局配置（数据库信息、端口等）
+│   ├── Db_helper.h          # 数据库操作封装
+│   ├── dish.h               # 菜品类定义
+│   ├── order.h              # 订单类定义
+│   ├── tables.h			 # 餐桌类定义
+│   ├── statistics.h         # 数据统计类定义
+│   └── ui.h                 # 控制台UI交互
+├── src/                     # 所有实现文件
+│   ├── Db_helper.cpp
+│   ├── dish.cpp
+│   ├── order.cpp
+│   ├── tables.cpp
+│   ├── statistics.cpp
+│   └── ui.cpp
+├── main.cpp                 # 程序入口
