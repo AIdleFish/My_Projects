@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\OnLine.h.obj",
+            "outputs": [
+                "C:\\Users\\12908\\Desktop\\Client_port\\Client_Port\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\12908\\Desktop\\Client_port\\Client_Port\\x64\\Debug\\OnLine.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "OnLine.h",
+                    "source-path": "c:\\users\\12908\\desktop\\client_port\\client_port\\online.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

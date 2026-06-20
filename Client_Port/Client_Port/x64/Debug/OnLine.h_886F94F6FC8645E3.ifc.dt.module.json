@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\OnLine.obj",
+            "outputs": [
+                "x64\\Debug\\OnLine.h_886F94F6FC8645E3.ifc.dt.module.json",
+                "x64\\Debug\\OnLine.h_886F94F6FC8645E3.ifc.dt.d.json",
+                "x64\\Debug\\OnLine.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\12908\\Desktop\\Client_Port\\Client_Port\\OnLine.h",
+                    "source-path": "c:\\users\\12908\\desktop\\client_port\\client_port\\online.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
